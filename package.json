@@ -1,0 +1,16 @@
+{
+  "name": "technical-challenge",
+  "version": "1.0.0",
+  "description": "Klaytn Developer Technical Challenge",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Howard Lee",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
