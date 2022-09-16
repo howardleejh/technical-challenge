@@ -27,8 +27,6 @@ Ensure you have both Node and NPM installed.
    npm test
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -38,11 +36,7 @@ Running the test should display the test results:
 
 ![Screenshot 2022-09-16 at 9 50 45 PM](https://user-images.githubusercontent.com/49562978/190654812-a0fbf7cb-6b11-4c0c-87e8-03f0ae00584c.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 NONE
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
