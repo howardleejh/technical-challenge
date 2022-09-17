@@ -34,7 +34,7 @@ Ensure you have both Node and NPM installed.
 
 Running the test should display the test results:
 
-![Screenshot 2022-09-16 at 9 50 45 PM](https://user-images.githubusercontent.com/49562978/190654812-a0fbf7cb-6b11-4c0c-87e8-03f0ae00584c.png)
+![Screenshot 2022-09-17 at 11 48 11 PM](https://user-images.githubusercontent.com/49562978/190865273-dd131ae5-e1ba-4697-bd93-aaaf5b97c4c1.png)
 
 <!-- LICENSE -->
 ## License
